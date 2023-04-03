@@ -1,4 +1,4 @@
-this repository contains an app that describes my favorite movie and lets you "purchase" tickets to one of a few screenings. (video below)
+this repository contains an app that was written in Kotlin and describes my favorite movie and lets you "purchase" tickets to one of a few screenings. (video below)
 the app has 2 languages, build as a single activity, and is destined to have:
 • At least 3 different types of widgets.
 • At least one dialog.
