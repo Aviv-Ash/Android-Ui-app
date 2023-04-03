@@ -18,3 +18,4 @@ multiple different concurrent animations)
 information according to the options you implemented.
 • Display a button to confirm their purchase.
 When this Button is clicked, display to the user his latest purchase details 
+https://www.youtube.com/shorts/KvbfIyLkGew
